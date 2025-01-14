@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: foxthebarefoot
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/gomtami.jpg
   picAlt: "gomhee tamee two cats"
   job: weblog
   aboutme: true # comment this out if you don't need the 'about' page.
